@@ -1,2 +1,4 @@
 # Hom1e
-Try Git
+Hello, my friend, do you see this?
+
+Hello World
